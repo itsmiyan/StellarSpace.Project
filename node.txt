@@ -1,0 +1,4 @@
+sửa lại nút âm lượng, khi bấm vào nút âm lượng:
++ thu gọn 2 nút chuyển bài, nút play sẽ dịch sang bên trái (hiệu ứng trượt và fade biến mất)
++ nút âm lượng sẽ trượt theo qua bên trái nằm cạch nút play, hiện thanh âm lượng nằm ngang và đặt vào khoảng trống từ icon âm lượng tới timer
++ khi chỉnh xong bấm vào icon âm lượng 1 lần nữa hoặc nhấn vào bất kì nút nào trên màn hình, thì hiệu ứng trượt ngược lại vị trí ban đầu, 2 nút chuyển hiệu ứng fade in vào lại chỗ cũ 
